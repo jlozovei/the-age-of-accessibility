@@ -56,10 +56,10 @@ Further I'll develop some bad and good cases on Codepen! :smile:
 - [postcss-colorblind | GitHub](https://github.com/btholt/postcss-colorblind)
 
 ##### Chrome Extensions 
-- [RGB Blind | Chrome Extension](https://chrome.google.com/webstore/detail/rgblind/kjlmmjnmmlfamgddfglhaoklpjjplbhc/)
-- [Dalton - Chrome Extension](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool)
-- [Colorblinding - Chrome Extension](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
-- [Colorblindly - Chrome Extension](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
+- [RGB Blind](https://chrome.google.com/webstore/detail/rgblind/kjlmmjnmmlfamgddfglhaoklpjjplbhc/)
+- [Dalton](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool)
+- [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
+- [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
 
 ##### Online Tools/Validators
 - [aslint](https://www.aslint.org/)

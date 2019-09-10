@@ -52,10 +52,10 @@ Logo os exemplos (casos bons e ruins) estarão disponíveis no Codepen! :smile:
 - [postcss-colorblind | GitHub](https://github.com/btholt/postcss-colorblind)
 
 ##### Extensões do Chrome 
-- [RGB Blind | Chrome Extension](https://chrome.google.com/webstore/detail/rgblind/kjlmmjnmmlfamgddfglhaoklpjjplbhc/)
-- [Dalton - Chrome Extension](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool)
-- [Colorblinding - Chrome Extension](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
-- [Colorblindly - Chrome Extension](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
+- [RGB Blind](https://chrome.google.com/webstore/detail/rgblind/kjlmmjnmmlfamgddfglhaoklpjjplbhc/)
+- [Dalton](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool)
+- [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
+- [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
 
 ##### Ferramentas e Validadores Online
 - [aslint](https://www.aslint.org/)
