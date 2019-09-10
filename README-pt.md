@@ -9,7 +9,7 @@ Você pode encontrar os slides dentro da pasta [/slides](https://github.com/jloz
 Como um atalho, acesse direto pelo evento:
 
 - [CapiConf 2019](https://github.com/jlozovei/the-age-of-accessibility/blob/master/slides/capiconf2019/a-era-da-acessibilidade.pdf)
-- [BrazilJS On The Road Curitiba 2019]()
+- [BrazilJS On The Road Curitiba 2019](https://github.com/jlozovei/the-age-of-accessibility/blob/master/slides/braziljs-ontheroad-curitiba2019/a-era-da-acessibilidade.pdf)
 
 
 ## :scroll: Conceitos
